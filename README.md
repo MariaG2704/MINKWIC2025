@@ -1,4 +1,4 @@
-# MINKWIC2025
+# MINKWIC2025 Maria
 A demo repository for MINKWIC 2025 workshop
 
 ## GitHub and Markdown Guides
